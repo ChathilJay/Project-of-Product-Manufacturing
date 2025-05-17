@@ -1,0 +1,219 @@
+Production Date,Dept,Line,Sub Line,Time,Shift,Waterfall,From Product,To Product,Cause Category,Cause,Total Time Mins,Freq,Comments
+4/05/2020,2,6,0,13:30,Daytime,Operational Losses,1400338,,TFE,Low Solids,30,1,Seal Water
+4/05/2020,2,6,0,15:25,Afternoon,Operational Losses,1400338,,TFE,Low Solids,10,2,Seal Water Fault
+4/05/2020,2,6,0,15:45,Afternoon,Operational Losses,1400338,,TFE,Low Solids,10,1,Seal Water Fault
+4/05/2020,2,6,0,18:00,Afternoon,Operational Losses,1400338,,TFE,Low Solids,10,1,Seal Water Fault
+4/05/2020,2,6,0,20:10,Afternoon,Operational Losses,1400338,,TFE,Low Solids,15,1,Seal Water Fault
+4/05/2020,2,6,0,21:00,Afternoon,Start & Finish production,1400338,,Shutdown,Daily Shutdown,60,1,
+4/05/2020,2,6,0,22:00,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,120,1,Full Cip Wash Ffte And Tfe
+5/05/2020,2,6,0,0:00,Night,Operational Losses,1400339,,TFE,Thin Film Evaporation,40,4,Seal Water Fault Occurred After Cip And The Pressure Was Playing Up.
+5/05/2020,2,6,0,0:40,Night,Change Over,1400338,1400339,Changeover,Changeover Product,20,1,
+5/05/2020,2,6,0,1:00,Night,Start & Finish production,1400339,,Startup,Daily Startup,90,1,Building Up Solids
+5/05/2020,2,6,0,3:45,Night,Operational Losses,1400339,,TFE,Low Solids,15,1,
+5/05/2020,2,6,0,6:00,Daytime,Operational Losses,1400339,,TFE,Low Solids,18,1,Seal Water
+5/05/2020,2,6,0,7:30,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,30,1,
+5/05/2020,2,6,0,8:45,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,75,1,
+5/05/2020,2,6,0,12:30,Daytime,Labour Management Losses,1400340,,Personnel,Waiting On Labour,90,1,Unable To Cover Separator Calling Sick For 1.5 Hours.
+5/05/2020,2,6,0,14:00,Afternoon,Operational Losses,1400340,,Extract Vat,Waiting On Separators,60,1,Extract Vat Level
+5/05/2020,2,6,0,15:00,Afternoon,Start & Finish production,1400340,,Startup,Daily Startup,25,1,
+5/05/2020,2,6,0,17:05,Afternoon,Operational Losses,1400340,,TFE,Low Solids,15,1,Seal Water Fault ( Recorded On Tfe Seal Water Sheet )
+5/05/2020,2,6,0,23:40,Night,Operational Losses,1400340,,TFE,Low Solids,28,1,Seal Water Fault ( Pressure )
+6/05/2020,2,6,0,1:55,Night,Start & Finish production,1400340,,Shutdown,Daily Shutdown,35,1,Low Solids To Extract Tank
+6/05/2020,2,6,0,2:30,Night,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,90,1,Quick Cip Wash
+6/05/2020,2,6,0,4:00,Night,Start & Finish production,1400338,,Startup,Daily Startup,60,1,Building Up Solids Ffte And Tfe
+6/05/2020,2,6,0,11:20,Daytime,Operational Losses,1400338,,TFE,Low Solids,22,1,Seal Water
+7/05/2020,2,6,0,11:11,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,44,1,
+7/05/2020,2,6,0,11:55,Daytime,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,125,1,
+7/05/2020,2,6,0,18:00,Afternoon,Start & Finish production,1400339,,Startup,Daily Startup,90,1,Building Up Solids Ffte And Tfe
+7/05/2020,2,6,0,20:47,Afternoon,Operational Losses,1400339,,TFE,Low Solids,23,1,Tfe Pressure Flashing Red On 
+8/05/2020,2,6,0,0:15,Night,Start & Finish production,1400339,,Shutdown,Daily Shutdown,45,1,Low Solids To Extract Tank
+8/05/2020,2,6,0,1:00,Night,Start & Finish production,1400340,,Startup,Daily Startup,90,1,Building Up Solids
+8/05/2020,2,6,0,2:50,Night,Operational Losses,1400340,,TFE,Thin Film Evaporation,28,1,The Seal Gadge Was Playing Around And Making Solids Not What Is Required For Drums So I Used The Vaccum To Fix Back To Place The Seal And Which Led To Dropping Solids And Building It Up Again Now The Seal Is Fixed In Its Place And My Current Tempurture Is Sitting At (76.5) (tfe) Which Is Helping The Seal Staying In Place And Giving Me The Solids Which Is Required.
+8/05/2020,2,6,0,9:35,Daytime,Operational Losses,1400340,,TFE,Low Solids,20,1,Seal Water
+8/05/2020,2,6,0,11:15,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,45,1,
+8/05/2020,2,6,0,12:00,Daytime,Operational Losses,1400338,,Extract Vat,Waiting On Separators,43,1,Waiting For High Level
+8/05/2020,2,6,0,12:43,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,77,1,A/s To Fill Drums
+8/05/2020,2,6,0,21:33,Afternoon,Start & Finish production,1400338,,Shutdown,Weekly Shutdown,27,1,Weekend Shut Down.
+8/05/2020,2,6,0,22:00,Night,Start & Finish production,1400338,,Shutdown,Weekly Shutdown,40,1,
+8/05/2020,2,6,0,22:40,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,100,1,
+11/05/2020,2,6,0,6:00,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,35,1,
+11/05/2020,2,6,0,11:20,Daytime,Operational Losses,1400338,,TFE,Thin Film Evaporation,20,1,Seal Water Presure
+11/05/2020,2,6,0,16:35,Afternoon,Operational Losses,1400338,,TFE,Low Solids,20,1,Tfe Seal Fault
+12/05/2020,2,6,0,4:50,Night,Start & Finish production,1400338,,Shutdown,Daily Shutdown,60,1,
+12/05/2020,2,6,0,5:50,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,10,1,
+12/05/2020,2,6,0,6:00,Daytime,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,100,1,Cip Ffte And Tfe
+12/05/2020,2,6,0,7:40,Daytime,Operational Losses,1400339,,FFTE,Ffte Condenser Vaccum Fault,15,1,Ffte Condenser Sp Set At 50.0 C But Pv  Is Sitting At 51.6 C So Can Not Start Production Until Its At It Set Point.
+12/05/2020,2,6,0,7:55,Daytime,Start & Finish production,1400339,,Startup,Daily Startup,75,1,Building Up Solids Ffte And Tfe . Thank You
+12/05/2020,2,6,0,15:45,Afternoon,Start & Finish production,1400339,,Shutdown,Daily Shutdown,40,1,Low Solids To Extract Tank
+12/05/2020,2,6,0,16:25,Afternoon,Start & Finish production,1400340,,Startup,Daily Startup,95,1,
+13/05/2020,2,6,0,0:25,Night,Operational Losses,1400340,,TFE,Low Solids,20,1,Seal Water Fault
+13/05/2020,2,6,0,4:00,Night,Start & Finish production,1400340,,Shutdown,Daily Shutdown,60,1,
+13/05/2020,2,6,0,5:00,Night,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,60,1,
+13/05/2020,2,6,0,6:00,Daytime,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,60,1,Cip Wash Ffte & Tfe
+13/05/2020,2,6,0,9:30,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,60,1,Building Solid
+14/05/2020,2,6,0,18:30,Afternoon,Start & Finish production,1400338,,Shutdown,Daily Shutdown,55,1,
+14/05/2020,2,6,0,19:25,Afternoon,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,115,1,
+14/05/2020,2,6,0,21:20,Afternoon,Start & Finish production,1400340,,Startup,Daily Startup,40,1,
+14/05/2020,2,6,0,22:35,Night,Operational Losses,1400340,,TFE,Low Solids,30,2,Seal Water Fault
+15/05/2020,2,6,0,0:25,Night,Operational Losses,1400340,,TFE,Low Solids,20,2,Seal Water Fault
+15/05/2020,2,6,0,3:15,Night,Operational Losses,1400340,,TFE,Low Solids,15,1,Seal Water Fault
+15/05/2020,2,6,0,5:15,Night,Start & Finish production,1400340,,Shutdown,Daily Shutdown,45,1,
+15/05/2020,2,6,0,6:00,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,60,1,Building Solid
+15/05/2020,2,6,0,21:15,Afternoon,Start & Finish production,1400338,,Shutdown,Daily Shutdown,45,1,Full Cip To Be Done On N/s
+17/05/2020,2,6,0,22:00,Night,Start & Finish production,1400338,,Shutdown,Daily Shutdown,100,1,Start Up Tfe Etc For Cip Wash
+17/05/2020,2,6,0,23:40,Night,Line delays,1400338,,Emergency,Fire Alarm Or Evacuation,35,1, Fire Team Ert Attended Boiler House Fire Alarm
+18/05/2020,2,6,0,0:15,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,192,1,
+18/05/2020,2,6,0,3:27,Night,Start & Finish production,1400338,,Startup,Daily Startup,53,1,
+18/05/2020,2,6,0,7:25,Daytime,Operational Losses,1400338,,TFE,Low Solids,40,2,Seal Water Fault
+18/05/2020,2,6,0,13:30,Daytime,Operational Losses,1400338,,TFE,Low Solids,10,1,Seal Water Fault
+18/05/2020,2,6,0,21:06,Afternoon,Operational Losses,1400338,,TFE,Low Solids,14,1,Seal Water Fault
+18/05/2020,2,6,0,23:00,Night,Start & Finish production,1400338,,Shutdown,Daily Shutdown,55,1,
+18/05/2020,2,6,0,23:55,Night,Operational Losses,1400339,,Extract Vat,Waiting On Separators,51,1,Waiting For High Level Extract Tank Brn Product
+19/05/2020,2,6,0,0:46,Night,Start & Finish production,1400339,,Startup,Daily Startup,79,1,
+19/05/2020,2,6,0,5:15,Night,Start & Finish production,1400339,,Shutdown,Daily Shutdown,45,1,
+19/05/2020,2,6,0,6:00,Daytime,Operational Losses,1400340,,Extract Vat,Waiting On Separators,20,1,Extract Level
+19/05/2020,2,6,0,6:20,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,100,1,Seal Water Fault 7 Times : 7:15am7:20am 2x 7:30am 2x 7:35am7:40am
+19/05/2020,2,6,0,15:10,Afternoon,Operational Losses,1400340,,TFE,Low Solids,15,1,Seal Water (flow )
+19/05/2020,2,6,0,18:30,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,60,1,
+19/05/2020,2,6,0,19:30,Afternoon,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,150,1,
+19/05/2020,2,6,0,22:00,Night,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,47,1,
+19/05/2020,2,6,0,22:47,Night,Start & Finish production,1400338,,Startup,Daily Startup,63,1,
+20/05/2020,2,6,0,9:15,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,45,1,
+20/05/2020,2,6,0,10:00,Daytime,Labour Management Losses,1400338,,Personnel,Waiting On Labour,80,1,Product Recirc Tfe.
+20/05/2020,2,6,0,11:20,Daytime,Start & Finish production,1400338,,Startup,Startup - Other,30,1,Off Product Recirc Now Building Up Tfe Solids
+21/05/2020,2,6,0,8:00,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,75,1,
+21/05/2020,2,6,0,9:15,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,70,1,1 X  Seal Water Fault
+21/05/2020,2,6,0,16:30,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,60,1,Low Solids To Extract Tank
+21/05/2020,2,6,0,17:30,Afternoon,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,210,1,Full Cip Wash Ffte Tfe
+21/05/2020,2,6,0,21:00,Afternoon,Start & Finish production,1400338,,Startup,Daily Startup,60,1,Building Up Solids Ffte And Tfe
+22/05/2020,2,6,0,2:30,Night,Operational Losses,1400338,,TFE,Low Solids,20,1,Seal Water
+22/05/2020,2,6,0,15:45,Afternoon,Start & Finish production,1400338,,Shutdown,Weekly Shutdown,75,1,
+22/05/2020,2,6,0,17:00,Afternoon,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,300,1,Full Cip Wash Ffte And Tfe   Evaportator Room And The Exterior Of The Extract Tank And Work Station.
+24/05/2020,2,6,0,0:00,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,120,1,
+24/05/2020,2,6,0,4:30,Night,Start & Finish production,1400338,,Startup,Daily Startup,90,1,
+25/05/2020,2,6,0,8:50,Daytime,Line delays,1400338,,Startup,Chilled Water,70,1,Cooling System . Shut Down Tfe Etc
+25/05/2020,2,6,0,19:45,Afternoon,Start & Finish production,1400338,,Shutdown,Daily Shutdown,45,1,
+25/05/2020,2,6,0,20:30,Afternoon,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,75,1,
+25/05/2020,2,6,0,21:45,Afternoon,Operational Losses,1400338,,TFE,Motor High Amp/overload,15,1,Getting Rid Off Water From Tfe Drum
+25/05/2020,2,6,0,22:45,Night,Start & Finish production,1400339,,Startup,Daily Startup,110,1,Building Up Solids Ffte And Tfe .
+26/05/2020,2,6,0,1:50,Night,Start & Finish production,1400339,,Shutdown,Daily Shutdown,60,1,Low Solids To Extact Tank
+26/05/2020,2,6,0,2:50,Night,Start & Finish production,1400340,,Startup,Daily Startup,80,1,
+26/05/2020,2,6,0,9:10,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,50,1,
+26/05/2020,2,6,0,10:00,Daytime,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,180,1,
+26/05/2020,2,6,0,13:20,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,40,1,
+26/05/2020,2,6,0,14:00,Afternoon,Start & Finish production,1400338,,Startup,Daily Startup,30,1,
+27/05/2020,2,6,0,5:25,Night,Start & Finish production,1400338,,Shutdown,Daily Shutdown,35,1,
+27/05/2020,2,6,0,6:00,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,93,1,
+27/05/2020,2,6,0,12:35,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,25,1,
+27/05/2020,2,6,0,13:00,Daytime,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,60,1,Set Up And Start Cip  A/s To Complete Wash
+27/05/2020,2,6,0,14:00,Afternoon,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,65,1,
+27/05/2020,2,6,0,15:05,Afternoon,Start & Finish production,1400338,,Startup,Daily Startup,95,1,
+28/05/2020,2,6,0,4:45,Night,Operational Losses,1400338,,TFE,Thin Film Evaporation,75,1,Product Recirc
+28/05/2020,2,6,0,21:15,Afternoon,Start & Finish production,1400338,,Shutdown,Weekly Shutdown,45,1,
+31/05/2020,2,6,0,22:00,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,375,1,Start Up And Full Cip Wash
+1/06/2020,2,6,0,4:15,Night,Start & Finish production,1400338,,Startup,Weekly Startup,105,1,
+1/06/2020,2,6,0,6:00,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,15,1,
+1/06/2020,2,6,0,9:30,Daytime,Operational Losses,1400338,,TFE,Low Solids,25,1,
+2/06/2020,2,6,0,0:35,Night,Start & Finish production,1400338,,Shutdown,Daily Shutdown,65,1,
+2/06/2020,2,6,0,1:40,Night,Start & Finish production,1400339,,Startup,Daily Startup,85,1,
+2/06/2020,2,6,0,5:00,Night,Start & Finish production,1400339,,Shutdown,Daily Shutdown,60,1,
+2/06/2020,2,6,0,12:30,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,50,1,Building Up Solids Ffte And Tfe
+2/06/2020,2,6,0,16:00,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,40,1,
+2/06/2020,2,6,0,16:40,Afternoon,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,100,1,
+2/06/2020,2,6,0,18:20,Afternoon,Start & Finish production,1400338,,Startup,Daily Startup,80,1,
+3/06/2020,2,6,0,10:00,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,60,1,Low Solids To Extract Tank
+3/06/2020,2,6,0,11:00,Daytime,Operational Losses,1400340,,Extract Vat,Waiting On Separators,45,1,
+3/06/2020,2,6,0,11:45,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,75,1,Building Up Solids Ffte And Tfe
+3/06/2020,2,6,0,16:40,Afternoon,Change Over,1400340,1400339,Changeover,Changeover Product,90,1,15% Product In Extract Tank Brd Machine Put In Product Recirc Brn Added To Extract Tank Restart 1800 Waiting For Solids For Brn
+3/06/2020,2,6,0,21:00,Afternoon,Start & Finish production,1400339,,Shutdown,Daily Shutdown,60,1,
+3/06/2020,2,6,0,22:00,Night,Start & Finish production,1400338,,Startup,Daily Startup,75,1,
+4/06/2020,2,6,0,16:00,Afternoon,Start & Finish production,1400338,,Shutdown,Daily Shutdown,50,1,
+9/06/2020,2,6,0,14:00,Afternoon,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,60,1,
+10/06/2020,2,6,0,6:00,Daytime,Start & Finish production,1400339,,Startup,Daily Startup,60,1,
+10/06/2020,2,6,0,8:20,Daytime,Start & Finish production,1400339,,Shutdown,Daily Shutdown,70,1,
+10/06/2020,2,6,0,9:30,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,80,1,
+10/06/2020,2,6,0,13:30,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,30,1,
+10/06/2020,2,6,0,14:00,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,30,1,Low Solids Ffte And Tfe To Extract Tank.
+10/06/2020,2,6,0,14:30,Afternoon,Start & Finish production,1400338,,Startup,Daily Startup,60,1,Building Up Solids Ffte And Tfe
+12/06/2020,2,6,0,4:50,Night,Operational Losses,1400338,,TFE,Low Solids,60,1,Seal Water High Level In Ffte  Tfe Run Empty
+12/06/2020,2,6,0,8:20,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,70,1,
+12/06/2020,2,6,0,9:30,Daytime,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,90,1,
+12/06/2020,2,6,0,11:00,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,60,1,
+12/06/2020,2,6,0,14:45,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,50,1,Ffte And Tfe
+12/06/2020,2,6,0,15:40,Afternoon,Start & Finish production,1400339,,Startup,Daily Startup,60,1,
+12/06/2020,2,6,0,19:40,Afternoon,Start & Finish production,1400339,,Shutdown,Daily Shutdown,60,1,
+12/06/2020,2,6,0,20:40,Afternoon,Sanitation,1400339,,Sanitation,Machine Sanitation  C I P,80,1,
+14/06/2020,2,6,0,23:45,Night,Sanitation,1400339,,Sanitation,Machine Sanitation  C I P,150,1,Full  Cip Wash Ffte And Tfe .
+15/06/2020,2,6,0,2:45,Night,Start & Finish production,1400338,,Startup,Daily Startup,135,1,Building Up Solids
+16/06/2020,2,6,0,1:40,Night,Operational Losses,1400338,,TFE,Low Solids,20,1,The Tfe ( Flow In ) Causing Me To Loose Solids.
+16/06/2020,2,6,0,3:45,Night,Operational Losses,1400338,,TFE,Low Solids,15,1,Same Issue Tfe Flow In 
+16/06/2020,2,6,0,6:00,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,50,1,
+16/06/2020,2,6,0,6:50,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,85,1,
+16/06/2020,2,6,0,15:50,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,70,1,
+16/06/2020,2,6,0,17:00,Afternoon,Start & Finish production,1400339,,Startup,Daily Startup,90,1,Seal Water Fault During Building Up Solids.
+16/06/2020,2,6,0,19:00,Afternoon,Operational Losses,1400339,,TFE,Low Solids,15,1,Seal Water Fault
+16/06/2020,2,6,0,20:25,Afternoon,Operational Losses,1400339,,TFE,Low Solids,15,1,Seal Water Fault
+16/06/2020,2,6,0,21:45,Afternoon,Start & Finish production,1400339,,Shutdown,Daily Shutdown,15,1,
+16/06/2020,2,6,0,22:00,Night,Start & Finish production,1400339,,Shutdown,Daily Shutdown,60,1,Low Solids To Extract Tank. Ffte And Tfe.
+16/06/2020,2,6,0,23:00,Night,Sanitation,1400339,,Sanitation,Machine Sanitation  C I P,150,1,Full Cip Wash Ffte And Tfe.
+17/06/2020,2,6,0,1:30,Night,Change Over,1400339,1400338,Changeover,Changeover Product,20,1,
+17/06/2020,2,6,0,1:50,Night,Start & Finish production,1400338,,Startup,Daily Startup,85,1,Building Up Solids Ffte And Tfe.
+18/06/2020,2,6,0,8:20,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,75,1,
+18/06/2020,2,6,0,9:35,Daytime,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,185,1,
+18/06/2020,2,6,0,12:40,Daytime,Operational Losses,1400338,,Extract Vat,Waiting On Separators,80,1,Waiting For High Level Extract Tank
+18/06/2020,2,6,0,14:00,Afternoon,Start & Finish production,1400338,,Startup,Daily Startup,70,1,
+19/06/2020,2,6,0,7:20,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,40,1,
+19/06/2020,2,6,0,8:00,Daytime,Start & Finish production,1400340,,Startup,Daily Startup,60,1,
+19/06/2020,2,6,0,16:25,Afternoon,Start & Finish production,1400340,,Shutdown,Daily Shutdown,55,1,
+19/06/2020,2,6,0,17:20,Afternoon,Start & Finish production,1400339,,Startup,Daily Startup,60,1,
+19/06/2020,2,6,0,20:20,Afternoon,Start & Finish production,1400339,,Shutdown,Weekly Shutdown,100,1,
+22/06/2020,2,6,0,12:15,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,105,1,Building Up Soilds Ffte And 
+22/06/2020,2,6,0,18:00,Afternoon,Operational Losses,1400338,,TFE,Low Solids,20,1,Seal Water
+23/06/2020,2,6,0,0:25,Night,Operational Losses,1400338,,TFE,Low Solids,10,1,Seal Water Fault
+23/06/2020,2,6,0,5:40,Night,Operational Losses,1400338,,TFE,Low Solids,10,1,Seal Water Fault
+23/06/2020,2,6,0,7:50,Daytime,Operational Losses,1400338,,TFE,Low Solids,10,1,Flow In Tfe Was Playing Up Causing Me To Drop Soilds. Used Vaccum In Manual To Refix The Seal To Orginal Place.
+23/06/2020,2,6,0,10:35,Daytime,Operational Losses,1400338,,TFE,Low Solids,10,1,Same Issue From This Morning. Flow In Making Me Lose Solids And Used Vaccum To Refix The Seal Back To It Orginal Place.
+23/06/2020,2,6,0,11:55,Daytime,Start & Finish production,1400338,,Shutdown,Daily Shutdown,25,1,Ffte And Tfe :)
+23/06/2020,2,6,0,12:20,Daytime,Minor Stoppages,1400339,,Extract Vat,Waiting On Separators,20,1,Extract Tank Was Getting 
+23/06/2020,2,6,0,12:40,Daytime,Start & Finish production,1400339,,Startup,Daily Startup,80,1,Building Up Solids Ffte And 
+23/06/2020,2,6,0,18:20,Afternoon,Operational Losses,1400339,,TFE,Low Solids,45,1,Waiting For High Solids
+23/06/2020,2,6,0,23:00,Night,Start & Finish production,1400339,,Shutdown,Daily Shutdown,60,1,
+24/06/2020,2,6,0,0:00,Night,Start & Finish production,1400340,,Startup,Daily Startup,85,1,
+24/06/2020,2,6,0,2:35,Night,Operational Losses,1400340,,TFE,Low Solids,20,1,Building Up Solids Due To Vaccum Valve Operation Test.
+24/06/2020,2,6,0,4:50,Night,Operational Losses,1400340,,TFE,Low Solids,15,1,Seal Water Fault
+24/06/2020,2,6,0,7:00,Daytime,Start & Finish production,1400340,,Shutdown,Daily Shutdown,60,1,Low Solids To Extract Tank. Ffte And Tfe
+24/06/2020,2,6,0,8:00,Daytime,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,180,1,Full Cip Wash Ffte And Tfe
+24/06/2020,2,6,0,11:00,Daytime,Minor Stoppages,1400338,,FFTE,Ffte Condenser Vaccum Fault,20,1,Condenser Was To High To Start Production.
+24/06/2020,2,6,0,11:20,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,100,1,Building Up Solids Ffte And Tfe
+24/06/2020,2,6,0,14:00,Afternoon,Planned Stops,1400338,,Break,Team Meeting,20,1,
+25/06/2020,2,6,0,16:25,Afternoon,Operational Losses,1400338,,TFE,Low Solids,85,1,Solids Too Low Recirc To Extract Tank
+25/06/2020,2,6,0,20:20,Afternoon,Start & Finish production,1400338,,Shutdown,Daily Shutdown,45,1,
+25/06/2020,2,6,0,21:05,Afternoon,Start & Finish production,1400340,,Startup,Daily Startup,55,1,
+25/06/2020,2,6,0,22:00,Night,Start & Finish production,1400340,,Startup,Daily Startup,35,1,
+26/06/2020,2,6,0,3:35,Night,Start & Finish production,1400340,,Shutdown,Weekly Shutdown,65,1,
+26/06/2020,2,6,0,4:40,Night,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,80,1,
+28/06/2020,2,6,0,22:00,Night,Start & Finish production,1400338,,Startup,Weekly Startup,180,1,Start Up Evap Start Of Week
+29/06/2020,2,6,0,1:00,Night,Operational Losses,1400338,,TFE,Steam Supply,60,1,Boiler House Have To Shut Down Evaporator
+29/06/2020,2,6,0,2:00,Night,Start & Finish production,1400338,,Startup,Weekly Startup,75,1,Waiting For Evap To Restart
+29/06/2020,2,6,0,3:15,Night,Sanitation,1400338,,Sanitation,Machine Sanitation  C I P,105,1,
+29/06/2020,2,6,0,5:15,Night,Start & Finish production,1400338,,Startup,Daily Startup,45,1,
+29/06/2020,2,6,0,6:00,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,30,1,
+29/06/2020,2,6,0,11:10,Daytime,Operational Losses,1400338,,TFE,Low Solids,15,1,Seal Water Fault
+29/06/2020,2,6,0,14:45,Afternoon,Minor Stoppages,1400338,,TFE,Low Solids,15,1,Low Solids Flow In High Causing Solids To Drop.
+29/06/2020,2,6,0,16:50,Afternoon,Minor Stoppages,1400338,,TFE,Low Solids,15,1,Using Vaccum In Manual To Fix Back The Seal In Place.
+29/06/2020,2,6,0,18:50,Afternoon,Minor Stoppages,1400338,,TFE,Low Solids,10,1,Using Vaccum In Manual To Fix Back In Place The Seal.
+29/06/2020,2,6,0,21:20,Afternoon,Minor Stoppages,1400338,,TFE,Low Solids,10,1,Flow In Causing Low Solids. Using Vccum In Manual To Fix Back In Place
+30/06/2020,2,6,0,4:03,Night,Start & Finish production,1400338,,Shutdown,Daily Shutdown,32,1,
+30/06/2020,2,6,0,4:35,Night,Operational Losses,1400339,,Extract Vat,Waiting On Separators,40,1,Waiting For High Level
+30/06/2020,2,6,0,5:15,Night,Start & Finish production,1400339,,Startup,Daily Startup,45,1,
+30/06/2020,2,6,0,9:50,Daytime,Operational Losses,1400339,,TFE,Low Solids,10,1,Product Recirc Opperator To Start Early No Opp D/s
+30/06/2020,2,6,0,14:20,Afternoon,Start & Finish production,1400339,,Shutdown,Daily Shutdown,40,1,Ffte And Tfe Low Solids To 
+30/06/2020,2,6,0,15:00,Afternoon,Operational Losses,1400340,,MBUX Separators,Equipment Faults - Valves,30,1,
+30/06/2020,2,6,0,16:15,Afternoon,Start & Finish production,1400340,,Startup,Daily Startup,105,1,
+1/07/2020,2,6,0,0:45,Night,Operational Losses,1400340,,TFE,Low Solids,25,1,Seal Water
+1/07/2020,2,6,0,3:00,Night,Start & Finish production,1400340,,Shutdown,Daily Shutdown,35,1,
+1/07/2020,2,6,0,3:35,Night,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,47,1,
+1/07/2020,2,6,0,4:22,Night,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,98,1,Stop Cip And Nad To Restart Cip Wash Pipe Come Loose And Cip Spray Over Pallet Station Had To Restart Wash
+1/07/2020,2,6,0,6:00,Daytime,Sanitation,1400340,,Sanitation,Machine Sanitation  C I P,45,1,
+1/07/2020,2,6,0,6:45,Daytime,Start & Finish production,1400338,,Startup,Daily Startup,75,1,
+2/07/2020,2,6,0,4:10,Night,Operational Losses,1400338,,TFE,Low Solids,20,1,Seal Water
